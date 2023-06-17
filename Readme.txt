@@ -1,1 +1,1 @@
-magazart - social network for creative people
+Producat - social network for creative people
